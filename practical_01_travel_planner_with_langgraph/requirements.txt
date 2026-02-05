@@ -1,0 +1,17 @@
+# Core LangChain
+langchain==0.3.27
+langchain-core==0.3.72
+langchain-community==0.3.27
+
+# LangGraph (if used)
+langgraph>=0.2.0
+
+# ✅ Ollama integration (NEW, REQUIRED)
+langchain-ollama>=0.1.0
+
+# Local runtime
+ollama>=0.1.9
+
+# Utilities
+pydantic>=2.7.0
+typing-extensions>=4.9.0

@@ -1,32 +1,3 @@
-<<<<<<< HEAD
-# GenAI & Agentic Systems – Practical Portfolio
-
-## Who This Repo Is For
-
-Hiring managers, AI leads, and architects evaluating real-world GenAI capability.
-
-
-## What This Repo Demonstrates
-- Agentic reasoning (ReAct, Reflection)
-- Tool routing & orchestration
-- Memory & conversation persistence
-- Structured outputs for business use cases
-
-## Practical Projects
-1. Startup Research Copilot (ReAct + Router + Memory)
-2. \<Practical 2 name>
-
-## Tech Stack
-Python | LangChain | OpenAI | Vector DB | Tools | Prompt Engineering
-
-## How to Navigate
-
-Each project folder contains:
-- Problem statement
-- Architecture
-- Execution steps
-- Sample outputs
-=======
 This practical demonstrates and compares three popular agentic AI frameworks using a single Jupyter notebook.
 The goal is to understand how different frameworks implement agent behavior, their strengths, limitations, and suitability for real-world use cases.
 
@@ -96,4 +67,3 @@ This practical shows that:
 There is no “one best” agent framework
 Each framework optimizes for a different mental model
 Understanding failure modes is as important as success cases
->>>>>>> bdc2cac (feat: add practical_00_agentic_frameworks comparing CrewAI, LangChain ReAct, and AutoGen)
